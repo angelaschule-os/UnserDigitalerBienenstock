@@ -117,9 +117,9 @@ von mehreren km, keinen laufenden Übertragungskosten und einem extrem niedrigen
 Energieverbrauch ist dieses Funknetzwerk bestens für das Internet der Dinge
 (IoT) geeignet.
 
-Internes Darstellen und Bereitstellen mittels Grafana.
+Internes Darstellen und Bereitstellen der Meßergebnisse mittels Grafana.
 
-Öffentliches Bereitstellen über openSenseMap:
+Öffentliches Bereitstellen der Meßergebnisse über openSenseMap:
 https://opensensemap.org/explore/601ebb99e443a0001ba8be02.
 
 <img src="img/openSenseMap_bienen.png" height="500">
@@ -144,11 +144,11 @@ Angelaschule etwas in die Jahre gekommen und muss gewartet und die Sensorik
 zur Windgeschwindigkeit und Niederschlag in Stand gesetzt bzw. ausgetauscht
 werden.
 
-Um den genauen Zustand zu Ermitteln wurde im Januar 2021 ein
-Drohnenbefliegung durchgeführt. Eine Analyse der Befliegung steht noch aus.
+Um den genauen Zustand zu ermitteln wurde im Januar 2021 im Rahmen des [IMAGEFILM 2021](https://www.youtube.com/watch?v=CtGE5YUU54s)
+eine Drohnenbefliegung durchgeführt. Eine Analyse der Befliegung steht noch aus.
 
 Die Meteorologische Messgeräte stammen von der [Fa. Thies.](https://www.thiesclima.com/de/),
-welche Meteorologie- und Umweltmesstechnik anbietet die den Anfoderung der
+welche Meteorologie- und Umweltmesstechnik anbietet die den Anforderung der
 nationalen und internationalen Wetterdienste entsprechen. Siehe auch hierzu:
 [Leitfäden für die Ausbildung im Deutschen Wetterdienst (DWD), Band 6](https://www.dwd.de/DE/leistungen/pbfb_verlag_leitfaeden/pdf_einzelbaende/leitfaden6_pdf.pdf?__blob=publicationFile&v=3).
 
@@ -234,7 +234,7 @@ Kosten ab 190 Euro (einfache Kamera) oder 260 Euro (fortgeschrittene Kamera).
 
 ## Thema: Videografie und KI
 
-Einführung in das Thema maschinelles Sehen und Erkennen.  
+Einführung in das Thema maschinelles Sehen und Erkennen.
 
 Mit einem Raspberry Pi und einer Kamera werden Videobilder aufgenommen. Die
 KI auf dem Raspberry **erkennt** und **klassifiziert** die Bilder und
