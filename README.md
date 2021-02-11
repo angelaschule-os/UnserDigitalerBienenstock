@@ -15,7 +15,6 @@
   - [Thema: VR / Einen virtuellen Bienenstock entdecken](#thema-vr--einen-virtuellen-bienenstock-entdecken)
   - [Wortwolke / Tag Cloud](#wortwolke--tag-cloud)
 
-
 ## Über unsere Bienen
 
 Sechs Carnica-Bienenvölker bestehend aus ca. 20.000 Tieren:
@@ -33,7 +32,7 @@ Die Holz-Magazinbeuten sind ca. 1cm breiter als Deutsch-Normal-Maß (DNM) und
 doppelwandige (damit die Bienen im Winter besser geschützt sind).
 
 Mehr Informationen:
-https://www.angelaschule-os.de/category/imker-ag/
+<https://www.angelaschule-os.de/category/imker-ag/>
 
 ## Anlass und Ziele
 
@@ -74,8 +73,9 @@ Jugendwettbewerben, `Schüler experimentieren` für die 4. Klasse bis 14 Jahre)
 und `Jugend forscht` ab 15. Jahre (9. Klasse), an.
 
 Weiter Infos zu den Schülerwettbewerben:
-- https://www.jugend-forscht.de/teilnahme/alterssparten/schueler-experimentieren.html
-- https://www.jugend-forscht.de/teilnahme/alterssparten/jugend-forscht.html
+
+- <https://www.jugend-forscht.de/teilnahme/alterssparten/schueler-experimentieren.html>
+- <https://www.jugend-forscht.de/teilnahme/alterssparten/jugend-forscht.html>
 
 ## Fahrplan
 
@@ -85,23 +85,23 @@ Weiter Infos zu den Schülerwettbewerben:
 - Informationen zu den Themen sammeln (WIP)
 - Forschungstagebuch anlegen
 - Optional: Vorstellung des Projektes und der Themen
-  - https://www.osnabrueck.de/bienenbuendnis/
-  - http://www.xn--imkerverein-osnabrck-6ec.de/
-  - http://www.imker-weser-ems.de/
+  - <https://www.osnabrueck.de/bienenbuendnis/>
+  - <http://www.xn--imkerverein-osnabrck-6ec.de/>
+  - <http://www.imker-weser-ems.de/>
 - Optional: Teilnahme an `Schüler experimentieren`
   - Anmeldung bis zum 30.11.2021
   - Erstellung einer schriftlich Arbeit bis Januar 2022
-  - https://www.jugend-forscht.de/fileadmin/user_upload/Downloadcenter/Infomaterial/Faltblatt_Schueler_experimentieren.pdf
+  - <https://www.jugend-forscht.de/fileadmin/user_upload/Downloadcenter/Infomaterial/Faltblatt_Schueler_experimentieren.pdf>
 - Optional: Teilnahme an `Jugend forscht`
   - Anmeldung bis zum 30.11.2021
   - Erstellung einer schriftlich Arbeit bis Januar 2022
-  - https://www.jugend-forscht.de/fileadmin/user_upload/Downloadcenter/Teilnahme/Teilnahmebedingungen_Jugend_forscht.pdf
+  - <https://www.jugend-forscht.de/fileadmin/user_upload/Downloadcenter/Teilnahme/Teilnahmebedingungen_Jugend_forscht.pdf>
 
 ## Thema: LoRaWAN und Sensorik
 
 Einführung in das Internet der Dinge am Beispiel von Leon Weber und Marcel
 Linnemann `PRAXISBERICHT – DER DIGITALE BIENENSTOCK`.
-https://itemsnet.de/itemsblogging/der-digitale-bienenstock/
+<https://itemsnet.de/itemsblogging/der-digitale-bienenstock/>
 
 Messen, Übertrage, Analysieren und Auswerten, Darstellen und Bereitstellen.
 
@@ -120,11 +120,12 @@ Energieverbrauch ist dieses Funknetzwerk bestens für das Internet der Dinge
 Internes Darstellen und Bereitstellen der Meßergebnisse mittels Grafana.
 
 Öffentliches Bereitstellen der Meßergebnisse über openSenseMap:
-https://opensensemap.org/explore/601ebb99e443a0001ba8be02.
+<https://opensensemap.org/explore/601ebb99e443a0001ba8be02>.
 
 <img src="img/openSenseMap_bienen.png" height="500">
 
 Materialliste:
+
 - TODO
 
 Kosten ab geschätzt 250 Euro.
@@ -135,7 +136,7 @@ Außerhalb des Bienenstocks werden bereits Daten zur Außenlufttemperatur,
 Außenluftfeuchte, Lichtintensität, Luftdruck und Windrichtung von der
 Wetterstation der Angelaschule erhoben und an das openSenseMap-Projekt aus
 Münster übertragen:
-https://opensensemap.org/explore/5f5dc63f84e5a2001b1d5dbc
+<https://opensensemap.org/explore/5f5dc63f84e5a2001b1d5dbc>
 
 Die openSenseMap ist eine für jeden frei nutzbare Karte mit Umweltdaten.
 
@@ -153,14 +154,14 @@ nationalen und internationalen Wetterdienste entsprechen. Siehe auch hierzu:
 [Leitfäden für die Ausbildung im Deutschen Wetterdienst (DWD), Band 6](https://www.dwd.de/DE/leistungen/pbfb_verlag_leitfaeden/pdf_einzelbaende/leitfaden6_pdf.pdf?__blob=publicationFile&v=3).
 
 Weitere Information über die Wetterstation der Angelaschule:
-https://github.com/angelaschule-os/wetterstation
+<https://github.com/angelaschule-os/wetterstation>
 
 Geplanter Ersatz für:
-- Windgeber - compact Part number: 4.3519.00.000 (Kosten neu ab ca. 400 Euro)
-  - https://www.thiesclima.com/de/Produkte/Wind-Compact/?art=147
-- Niederschlagsgeber (Kosten ab ca. 1200 Euro)
-  - https://www.thiesclima.com/de/Produkte/Niederschlag-Elektrische-Geraete/?art=746
 
+- Windgeber - compact Part number: 4.3519.00.000 (Kosten neu ab ca. 400 Euro)
+  - <https://www.thiesclima.com/de/Produkte/Wind-Compact/?art=147>
+- Niederschlagsgeber (Kosten ab ca. 1200 Euro)
+  - <https://www.thiesclima.com/de/Produkte/Niederschlag-Elektrische-Geraete/?art=746>
 
 ## Thema: Luftqualität außerhalb des Bienenstocks
 
@@ -170,16 +171,16 @@ Luftverschmutzung macht auch unseren Bienen zu schaffen.
 Daher macht es Sinn Daten zur Luftqualität (NO2, PM2.5, PM10, Aerosol) und
 Lärmbelastung nicht nur zum Schutz der Schülerinnen und Schüler zur Erfassen,
 sondern auch für unsere Schulbienen. Mehr Infos:
-https://www.spektrum.de/news/luftverschmutzung-macht-bienen-zu-schaffen/1758924
+<https://www.spektrum.de/news/luftverschmutzung-macht-bienen-zu-schaffen/1758924>
 
-Die erfasst Daten könnten auf https://luftdaten.info/ bereitgestellt werden:
-http://deutschland.maps.sensor.community/#14/52.2939/8.0293
+Die erfasst Daten könnten auf <https://luftdaten.info/> bereitgestellt werden:
+<http://deutschland.maps.sensor.community/#14/52.2939/8.0293>
 
 <img src="img/luftdateninfo.png" height="500">
 
 Materialliste / Hinweise auf mögliche einzusetzende Sensorik:
 
-- https://sensor.community/de/sensors/airrohr/
+- <https://sensor.community/de/sensors/airrohr/>
 
 Kosten ohne Lärmbelastung ab 250 Euro.
 
@@ -188,13 +189,13 @@ Kosten ohne Lärmbelastung ab 250 Euro.
 Hat Umgebungslärm (besonders in den Pausen) einen Einfluß auf die Bienen,
 oder lässt dieser unsere Schulbienen unbeirrt?
 
-https://luftdaten.info/einfuehrung-zum-laermsensor/
+<https://luftdaten.info/einfuehrung-zum-laermsensor/>
 
 Materialliste:
-- https://sensor.community/de/sensors/dnms/
+
+- <https://sensor.community/de/sensors/dnms/>
 
 Kosten ab 70 Euro.
-
 
 ## Thema: Videografie
 
@@ -209,12 +210,14 @@ unsichtbar.
 
 <img src="img/queen-egg-laying.jpg" height="300">
 
-Quelle: https://chelifer.de/infrarot-videos-aus-dem-brutbereich-der-honigbienen/
+Quelle: <https://chelifer.de/infrarot-videos-aus-dem-brutbereich-der-honigbienen/>
 
 Software:
-- https://motion-project.github.io/
+
+- <https://motion-project.github.io/>
 
 Materialliste:
+
 - Raspberry Pi 4 2GB (ab 50 Euro)
 - Gehäuse und Lüfter(Argon One) (ab 40 Euro)
 - Netzteil (ab 8 Euro)
@@ -226,11 +229,9 @@ Materialliste:
 - Infrarot-Scheinwerfer/Strahler
 - Oder Kamera mit Infrarot-Strahler
 - Outdoor IP65-Gehäuse  (ab 40 Euro)
-  - http://www.dg1dan.de/qo100/hardware/gehaeuse/gehaeuse.htm
+  - <http://www.dg1dan.de/qo100/hardware/gehaeuse/gehaeuse.htm>
 
 Kosten ab 190 Euro (einfache Kamera) oder 260 Euro (fortgeschrittene Kamera).
-
-
 
 ## Thema: Videografie und KI
 
@@ -245,22 +246,19 @@ KI-Kamera liefert eine wertvolle Datenbasis.
 
 Am Beispiel von [Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
 
-
 Quellen:
-- https://www.heise.de/ratgeber/Objekterkennung-mit-Pi-Kamera-und-Edge-TPU-4475950.html
-- https://cbrell.de/blog/honig-bienen-2020/
-- https://cbrell.de/blog/honigbienen-2019/#bienenki
-- https://twitter.com/clausbrell/status/1183328586473857024
-- https://twitter.com/clausbrell/status/1160247881074401281
+
+- <https://www.heise.de/ratgeber/Objekterkennung-mit-Pi-Kamera-und-Edge-TPU-4475950.html>
+- <https://cbrell.de/blog/honig-bienen-2020/>
+- <https://cbrell.de/blog/honigbienen-2019/#bienenki>
+- <https://twitter.com/clausbrell/status/1183328586473857024>
+- <https://twitter.com/clausbrell/status/1160247881074401281>
 
 Die Kamera und "Künstliche Intelligenz"  hilft beim ...
 
 1) Bienen erkennen.
-
 <img src="img/EGwHEw1W4AAhePr.jpeg" height="300">
-
 2) digitalen Bienenzählen, dem Schätzen wie starke unsere Völker sind.
-
 3) bestimmen und zählen der Anteile von Bienen mit und ohne
 Pollenhöschen.
 
@@ -274,17 +272,16 @@ die Anzahlen im Internet.
 
 <img src="img/cam190606-1335-Pollen.jpg" height="300">
 
-Nach: https://cbrell.de/blog/honigbienen-2019/ -> `27.08.2019 KI-Zählung der
+Nach: <https://cbrell.de/blog/honigbienen-2019/> -> `27.08.2019 KI-Zählung der
 Bienen funktioniert nach wie vor zuverlässig`
-
 
 4) Erkennen von und warnen vor Feinde wie Wespen und Hornissen.
 
 Materialliste:
+
 - zusätzlich Edge TPU: Coral USB Accelerator (ca. 60 Euro)
 
 Kosten zusätzlich zum Thema Videografie 60 Euro.
-
 
 ## Thema: Soundbewertung
 
@@ -303,16 +300,16 @@ Netzverbindungen (LoRaWAN, TTN) zur Übertragung genutzt werden.
 
 Am Beispiel von [Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
 
-https://cbrell.de/blog/honig-bienen-2020/ -> März -> Soundanalysen 06.03.2020
+<https://cbrell.de/blog/honig-bienen-2020/> -> März -> Soundanalysen 06.03.2020
 
 Link zur Forschungsidee von Claus Brell:
-https://cbrell.de/blog/ki-bewertung-von-klangereignissen-bei-honigbienen/
+<https://cbrell.de/blog/ki-bewertung-von-klangereignissen-bei-honigbienen/>
 
 Natur-Soundschnipsel mit dem Raspberry Pi Zero aufnehmen:
-https://cbrell.de/blog/natur-soundschnipsel-mit-dem-raspberry-pi-zero-aufnehmen/
-
+<https://cbrell.de/blog/natur-soundschnipsel-mit-dem-raspberry-pi-zero-aufnehmen/>
 
 Materialliste:
+
 - Raspberry Pi Zero W (ca. 20 Euro)
 - OTG Adapter (ca. 6 Euro)
 - Electret Mikrofon Kapsel (ca. 1 Euro)
@@ -322,8 +319,6 @@ Materialliste:
 - Gehäuse aus dem 3D-Drucker (ca. 10 Euro)
 
 Kosten ab 60 Euro.
-
-
 
 ## Thema: VR / Einen virtuellen Bienenstock entdecken
 
@@ -336,10 +331,9 @@ entweder mit Hilfe von Tablets oder Smartphones, mit selbstgebaute VR-Brillen
 aus Pappe oder Kunststoff oder spezielle VR-Brillen.
 
 Weitere Infos und Unterrichtsmaterialien:
-https://www1.wdr.de/schule/digital/unterrichtsmaterial/bienenstock-dreisechzig-100.html
+<https://www1.wdr.de/schule/digital/unterrichtsmaterial/bienenstock-dreisechzig-100.html>
 
 Kosten für das Virtual-Reality-Headset [Oculus Go](https://www.oculus.com/go/) ab 350 Euro bzw. [Oculus Quest 2](https://www.oculus.com/quest-2/) ab 500 Euro.
-
 
 ## Wortwolke / Tag Cloud
 
