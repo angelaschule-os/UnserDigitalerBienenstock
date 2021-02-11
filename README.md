@@ -344,4 +344,5 @@ Kosten für das Virtual-Reality-Headset [Oculus Go](https://www.oculus.com/go/) 
 ## Wortwolke / Tag Cloud
 
 KI /AI, Edge Computing, Soundanalyse, IoT, Makern, Computer Vision, LoraWan,
-Raspberry Pi, Tensorflow, Bilderkennung, Tensor Processing Units (TPUs), VR
+Raspberry Pi, Tensorflow, Bilderkennung, Tensor Processing Units (TPUs), VR,
+Kleinstcomputer, Embedded maschine learning
