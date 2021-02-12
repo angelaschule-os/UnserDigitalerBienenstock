@@ -5,6 +5,7 @@
   - [Anlass und Ziele](#anlass-und-ziele)
   - [Zielgruppe](#zielgruppe)
   - [Fahrplan](#fahrplan)
+  - [Überblick über die geförderten Themen](#überblick-über-die-geförderten-themen)
   - [Thema: LoRaWAN und Sensorik](#thema-lorawan-und-sensorik)
   - [Thema: Wetter- und Umweltdaten außerhalb des Bienenstocks](#thema-wetter--und-umweltdaten-außerhalb-des-bienenstocks)
   - [Thema: Luftqualität außerhalb des Bienenstocks](#thema-luftqualität-außerhalb-des-bienenstocks)
@@ -81,7 +82,7 @@ Weiter Infos zu den Schülerwettbewerben:
 
 - Themen sammeln (DONE)
 - Interne Projektskizze und -vorstellung (DONE)
-- Suche nach Finanzierungsmöglichkeiten für die einzelnen Themen(WIP)
+- Suche nach Finanzierungsmöglichkeiten für die einzelnen Themen (WIP)
 - Informationen zu den Themen sammeln (WIP)
 - Forschungstagebuch anlegen
 - Optional: Vorstellung des Projektes und der Themen
@@ -97,38 +98,76 @@ Weiter Infos zu den Schülerwettbewerben:
   - Erstellung einer schriftlich Arbeit bis Januar 2022
   - <https://www.jugend-forscht.de/fileadmin/user_upload/Downloadcenter/Teilnahme/Teilnahmebedingungen_Jugend_forscht.pdf>
 
+## Überblick über die geförderten Themen
+
+| Themen | Förderung  |
+| --- | :---: |
+| LoRaWAN und Sensorik | 👍 |
+| Wetter- und Umweltdaten außerhalb des Bienenstocks |  |
+| Luftqualität außerhalb des Bienenstocks |  |
+| Lärmbelastung |  |
+| Videografie |  |
+| Videografie und KI |  |
+| Soundbewertung |  |
+| VR / Einen virtuellen Bienenstock entdecken |  |
+
 ## Thema: LoRaWAN und Sensorik
 
-Einführung in das Internet der Dinge am Beispiel von Leon Weber und Marcel
-Linnemann `PRAXISBERICHT – DER DIGITALE BIENENSTOCK`.
-<https://itemsnet.de/itemsblogging/der-digitale-bienenstock/>
+Das Thema wird unterstützt von der [SWO Netz GmbH](https://www.swo-netz.de/) und der [items GmbH](https://itemsnet.de/).
 
-Messen, Übertrage, Analysieren und Auswerten, Darstellen und Bereitstellen.
+Grundlage für das Thema bildet die Abschlussarbeit von Leon Weber und der
+[PRAXISBERICHT – DER DIGITALE BIENENSTOCK](https://itemsnet.de/itemsblogging/der-digitale-bienenstock/) von
+Leon Weber und Marcel Linnemann.
 
-Messen von Temperatur, Luftfeuchtigkeit, Luftdruck und Gase.
+Das Thema führt ein in das **Internet der Dinge** (IdD) (auch: „Allesnetz“;
+englisch Internet of Things, Kurzform: IoT).
 
-Das Temperaturprofil im Bienenstock kann ein Indikator für die vorhandene
+Wie viel Nektar und Pollen eingetragen werden oder wie schnell die
+Winterfuttervorräte schwinden, das zu wissen hilft ungemein bei der
+Einschätzung wie gesund und fit unsere Schulbienen sind. Hierzu wird eine
+digitale **Bienestockwaage** gebaut. Grundlage hierfür ist die folgende Anleitung: <https://hiverize.org/eine-stockwaage-bauen/>.
+
+Zusätzlich wird die **Temperatur** im Beuteinneren gemessen (Die Behausung
+allein wird Beute genannt). Die Überwachung der Temperatur des Bienenstocks
+wird erfolgt durch eine selbstgebauten Lösung auf Basis von
+<https://hiverize.org/einbautemperatursensor/> und der Abschlussarbeit von
+Leon Weber.
+
+Die Temperatur verrät einiges über den Zustand unseres Bienenvolkes. Da die
+Temperatur nicht nur an einer Stelle gemessen wird, sondern über einige Waben
+verteilt gemessen wird, ist beispielsweise die Größe des Brutnests
+abschätzbar oder erkennbar, ob überhaupt Brut da ist. Das ist vor allem im
+Winter sehr nützlich, wenn die Restentmilbung mit Oxalsäure ansteht. Denn
+hierfür wird ein brutfreies Volk benötigt. Auch die Bewegung der Bienen in
+der Beute kann durch das Temperaturprofil nachvollziehbar. Zusätzlich kann
+das Temperaturprofil im Bienenstock auch ein Indikator für die vorhandene
 Futtermenge sein.
 
-Übertragen mittels drahtloser Technologie am Beispiel von LoRaWAN.
+Die Bienenstock-Waage und die Temperatur- und Feuchtigkeitsensoren
+übermitteln die Messwerte über das **Osnabrücker LoRaWAN-Funknetz** der SWO
+Netz GmbH.
 
-Exkurs LoRaWAN: LoRaWAN – das WiFi für das Internet der Dinge. Mit Reichweiten
-von mehreren km, keinen laufenden Übertragungskosten und einem extrem niedrigen
-Energieverbrauch ist dieses Funknetzwerk bestens für das Internet der Dinge
-(IoT) geeignet.
+*Exkurs LoRaWAN*: LoRaWAN – das WiFi für das Internet der Dinge. Mit
+Reichweiten von mehreren km, keinen laufenden Übertragungskosten und einem
+extrem niedrigen Energieverbrauch ist dieses Funknetzwerk bestens für das
+Internet der Dinge (IoT) geeignet.
 
-Internes Darstellen und Bereitstellen der Meßergebnisse mittels Grafana.
+Zur internen Visualisierung der Meßwerte und Alarmierung bei der Überschreitung von Grenzwerten werden wir ein [Grafana](https://grafana.com/grafana/) Dashbord einsetzen.
 
-Öffentliches Bereitstellen der Meßergebnisse über openSenseMap:
+Das öffentliche Bereitstellen der Meßergebnisse erfolgt über openSenseMap:
 <https://opensensemap.org/explore/601ebb99e443a0001ba8be02>.
 
 <img src="img/openSenseMap_bienen.png" height="500">
 
 Materialliste:
 
-- TODO
+- Waage (Kosten ca. 70 Euro):
+  - <https://hiverize.org/eine-stockwaage-bauen/>
+- LoRaWAN Sensorik (Kosten ca. 240 Euro):
+  - <https://hiverize.org/einbautemperatursensor/>
+  - <https://github.com/joergkeller/beehive-sensor>
 
-Kosten ab geschätzt 250 Euro.
+Kosten geschätzt ab 300 Euro.
 
 ## Thema: Wetter- und Umweltdaten außerhalb des Bienenstocks
 
