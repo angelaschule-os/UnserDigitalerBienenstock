@@ -1,5 +1,7 @@
 # Unser digitaler 🐝-stock (Projektskizze)
 
+Unsere Projektskizze ist lizenziert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
 - [Unser digitaler 🐝-stock (Projektskizze)](#unser-digitaler--stock-projektskizze)
   - [Über unsere Bienen](#über-unsere-bienen)
   - [Anlass und Ziele](#anlass-und-ziele)
