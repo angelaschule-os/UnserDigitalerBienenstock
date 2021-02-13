@@ -115,7 +115,8 @@ Weiter Infos zu den Schülerwettbewerben:
 
 ## Thema: LoRaWAN und Sensorik
 
-Das Thema wird unterstützt von der [SWO Netz GmbH](https://www.swo-netz.de/) und der [items GmbH](https://itemsnet.de/).
+Das Thema wird unterstützt von der [SWO Netz GmbH](https://www.swo-netz.de/)
+und der [items GmbH](https://itemsnet.de/).
 
 Grundlage für das Thema bildet die Abschlussarbeit von Leon Weber und der
 [PRAXISBERICHT – DER DIGITALE BIENENSTOCK](https://itemsnet.de/itemsblogging/der-digitale-bienenstock/) von
@@ -127,7 +128,8 @@ englisch Internet of Things, Kurzform: IoT).
 Wie viel Nektar und Pollen eingetragen werden oder wie schnell die
 Winterfuttervorräte schwinden, das zu wissen hilft ungemein bei der
 Einschätzung wie gesund und fit unsere Schulbienen sind. Hierzu wird eine
-digitale **Bienestockwaage** gebaut. Grundlage hierfür ist die folgende Anleitung: <https://hiverize.org/eine-stockwaage-bauen/>.
+digitale **Bienestockwaage** gebaut. Grundlage hierfür ist die folgende
+Anleitung: <https://hiverize.org/eine-stockwaage-bauen/>.
 
 Zusätzlich wird die **Temperatur** im Beuteinneren gemessen (Die Behausung
 allein wird Beute genannt). Die Überwachung der Temperatur des Bienenstocks
@@ -154,7 +156,17 @@ Reichweiten von mehreren km, keinen laufenden Übertragungskosten und einem
 extrem niedrigen Energieverbrauch ist dieses Funknetzwerk bestens für das
 Internet der Dinge (IoT) geeignet.
 
-Zur internen Visualisierung der Meßwerte und Alarmierung bei der Überschreitung von Grenzwerten werden wir ein [Grafana](https://grafana.com/grafana/) Dashbord einsetzen.
+Zur internen Visualisierung der Meßwerte und Alarmierung bei der
+Überschreitung von Grenzwerten werden wir ein
+[Grafana](https://grafana.com/grafana/) Dashbord einsetzen.
+
+Das Grafana Dashboard bietet zusätzlich die Möglichkeit Wetterdaten und
+Wetterprognosen des Deutsche Wetterdienst (DWD) anzuzeigen. Hinweis von
+[Prof. Dr. Michael Uelschen](https://www.hs-osnabrueck.de/prof-dr-ing-michael-uelschen/) Es ist
+zu prüfen inweit die phänologische Daten des DWD sich in das Dashboard
+integrieren lassen. Phänologische Daten bieten eine Antwort auf die Frage
+"Was blüht jetzt". Dabei ist zu beachten das nicht alle Pflanzen für Bienen
+interessant sind. Weiterführende Information zum [Phänologischen Kalender](https://www.nabu.de/tiere-und-pflanzen/pflanzen/pflanzenwissen/jahreszeiten.html).
 
 Das öffentliche Bereitstellen der Meßergebnisse erfolgt über openSenseMap:
 <https://opensensemap.org/explore/601ebb99e443a0001ba8be02>.
@@ -241,13 +253,13 @@ Kosten ab 70 Euro.
 ## Thema: Videografie
 
 Eine Kamera könnte den Bereich des Einflugloches aufzeichnen und die Bilder
-oder den **Videostream** im Internet bereitstellen, damit unsere Schülerinnen und
-Schüler jeder Zeit nach unseren Bienen "schauen" können.
+oder den **Videostream** im Internet bereitstellen, damit unsere Schülerinnen
+und Schüler jeder Zeit nach unseren Bienen "schauen" können.
 
-Zusätzlich könnte ein **Infrarot-Video** aus dem Brutbereich der Bienen gestreamt
-werden. Die Infrarot-Beleuchtung kann von den Bienen nicht wahrgenommen
-werden, Infrarotlicht mit einer Wellenlänge größer 780nm ist für sie
-unsichtbar.
+Zusätzlich könnte ein **Infrarot-Video** aus dem Brutbereich der Bienen
+gestreamt werden. Die Infrarot-Beleuchtung kann von den Bienen nicht
+wahrgenommen werden, Infrarotlicht mit einer Wellenlänge größer 780nm ist für
+sie unsichtbar.
 
 <img src="img/queen-egg-laying.jpg" height="300">
 
@@ -276,6 +288,9 @@ Kosten ab 190 Euro (einfache Kamera) oder 260 Euro (fortgeschrittene Kamera).
 
 ## Thema: Videografie und KI
 
+Am Beispiel von [Prof. Dr. rer. nat. Claus Brell ](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
+
+
 Einführung in das Thema maschinelles Sehen und Erkennen.
 
 Mit einem Raspberry Pi und einer Kamera werden Videobilder aufgenommen. Die
@@ -284,8 +299,6 @@ KI auf dem Raspberry **erkennt** und **klassifiziert** die Bilder und
 **Edge-Computing**-Lösung: Es können *schmalbandigen Netzverbindungen** (wie
 *LoRaWAN, TTN) zur Übertragung genutzt werden. Die
 KI-Kamera liefert eine wertvolle Datenbasis.
-
-Am Beispiel von [Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
 
 Quellen:
 
@@ -326,6 +339,12 @@ Kosten zusätzlich zum Thema Videografie 60 Euro.
 
 ## Thema: Soundbewertung
 
+Am Beispiel von [Prof. Dr. rer. nat. Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
+
+<https://cbrell.de/blog/honig-bienen-2020/> -> März -> Soundanalysen 06.03.2020
+
+Link zur Forschungsidee von Claus Brell:
+
 <img src="img/200306-Frequenzanalyse-Bienen-Hochschuldach.png" height="300">
 
 Kontinuierliche Soundanalysen können dabei helfen, heraus zu finden ob unsere
@@ -333,17 +352,17 @@ Bienen zufrieden sind. Denn Bienen produzieren Summ-Geräusche mit einem
 Schwerpunkt bei einer Frequenz von 200 Hz. Sind die Bienen unzufrieden, könnte
 dies an der geänderten Frequenz so um die 300 Hz erkannt werden.
 
+Nach Rückmeldung von [Prof. Dr. Michael Uelschen](https://www.hs-osnabrueck.de/prof-dr-ing-michael-uelschen/) lässt
+sich an dem Geräusch der Bienen auch erkennen, ob die Königin gestorben ist.
+Weiterhin könnte es ggf. möglich sein die Wanderung der Bienen ebenfalls
+mittels über die Waben verteilen Mikrofonen per Soundanalyse zu beobachten.
+
 Mit einem Raspberry Pi (möglichst Zero) und einem Messmikrofon werden bspw.
 jede 5 Minuten 10 Sekunden lange Tonschnipsel aufgenommen. Die KI auf dem
 Raspberry Pi bewertet den Tonschnipsel und überträgt die Bewertung an einen
 Webservice. Vorteil der Edge-Computing-Lösung: es können schmalbandigen
 Netzverbindungen (LoRaWAN, TTN) zur Übertragung genutzt werden.
 
-Am Beispiel von [Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
-
-<https://cbrell.de/blog/honig-bienen-2020/> -> März -> Soundanalysen 06.03.2020
-
-Link zur Forschungsidee von Claus Brell:
 <https://cbrell.de/blog/ki-bewertung-von-klangereignissen-bei-honigbienen/>
 
 Natur-Soundschnipsel mit dem Raspberry Pi Zero aufnehmen:
@@ -374,7 +393,8 @@ aus Pappe oder Kunststoff oder spezielle VR-Brillen.
 Weitere Infos und Unterrichtsmaterialien:
 <https://www1.wdr.de/schule/digital/unterrichtsmaterial/bienenstock-dreisechzig-100.html>
 
-Kosten für das Virtual-Reality-Headset [Oculus Go](https://www.oculus.com/go/) ab 350 Euro bzw. [Oculus Quest 2](https://www.oculus.com/quest-2/) ab 500 Euro.
+Kosten für das Virtual-Reality-Headset [Oculus Go](https://www.oculus.com/go/) ab 350 Euro bzw. [Oculus Quest
+2](https://www.oculus.com/quest-2/) ab 500 Euro.
 
 ## Wortwolke / Tag Cloud
 
