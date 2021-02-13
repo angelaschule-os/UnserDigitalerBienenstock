@@ -293,12 +293,12 @@ Am Beispiel von [Prof. Dr. rer. nat. Claus Brell ](https://cbrell.de/blog/) ([Ho
 
 Einführung in das Thema maschinelles Sehen und Erkennen.
 
-Mit einem Raspberry Pi und einer Kamera werden Videobilder aufgenommen. Die
-KI auf dem Raspberry **erkennt** und **klassifiziert** die Bilder und
-überträgt die Bewertung an einen Webservice. Vorteil der
-**Edge-Computing**-Lösung: Es können *schmalbandigen Netzverbindungen** (wie
-*LoRaWAN, TTN) zur Übertragung genutzt werden. Die
-KI-Kamera liefert eine wertvolle Datenbasis.
+Mit einem Einplatinen- oder einem Kleinstcomputer und einer Kamera werden
+Videobilder aufgenommen. Die KI auf auf dem Einplatinencomputer oder dem
+Kleinstcomputer **erkennt** und **klassifiziert** die Bilder und überträgt die
+Bewertung an einen Webservice. Vorteil der **Edge-Computing**-Lösung: Es können
+*schmalbandigen Netzverbindungen** (wie *LoRaWAN, TTN) zur Übertragung genutzt
+werden. Die KI-Kamera liefert eine wertvolle Datenbasis.
 
 Quellen:
 
@@ -316,13 +316,14 @@ Die Kamera und "Künstliche Intelligenz"  hilft beim ...
 3) bestimmen und zählen der Anteile von Bienen mit und ohne
 Pollenhöschen.
 
-Vor dem Flugloch ist ein Raspberry Pi 3 mit Raspberry Kamera montiert. Auf dem
-Raspberry läuft eine KI, die die Beinen mit und ohne Pollenhöschen zählt. Für
-eine Bildanalyse werden laut Brell 29 Sekunden benötigt.
+Vor dem Flugloch ist ein Einplatinen- oder Kleinstcomputer mit Kamera montiert.
+Auf dem Einplatinen- oder Kleinstcomputerläuft eine KI, die die Beinen mit und
+ohne Pollenhöschen zählt. Für eine Bildanalyse werden laut Brell 29 Sekunden
+benötigt.
 
-Alle zwei Minuten nimmt der Raspi ein Bild auf, archiviert und analysiert es,
-ermittelt die Anzahl der sichtbaren Bienen mit und ohne Pollenhöschen und logt
-die Anzahlen im Internet.
+Alle zwei Minuten nimmt der Einplatinen- oder Kleinstcomputer ein Bild auf,
+archiviert und analysiert es, ermittelt die Anzahl der sichtbaren Bienen mit
+und ohne Pollenhöschen und logt die Anzahlen im Internet.
 
 <img src="img/cam190606-1335-Pollen.jpg" height="300">
 
@@ -357,11 +358,11 @@ sich an dem Geräusch der Bienen auch erkennen, ob die Königin gestorben ist.
 Weiterhin könnte es ggf. möglich sein die Wanderung der Bienen ebenfalls
 mittels über die Waben verteilen Mikrofonen per Soundanalyse zu beobachten.
 
-Mit einem Raspberry Pi (möglichst Zero) und einem Messmikrofon werden bspw.
+Mit einem Einplatinen- oder Kleinstcomputer und einem Messmikrofon werden bspw.
 jede 5 Minuten 10 Sekunden lange Tonschnipsel aufgenommen. Die KI auf dem
-Raspberry Pi bewertet den Tonschnipsel und überträgt die Bewertung an einen
-Webservice. Vorteil der Edge-Computing-Lösung: es können schmalbandigen
-Netzverbindungen (LoRaWAN, TTN) zur Übertragung genutzt werden.
+Einplatinen- oder Kleinstcomputer bewertet den Tonschnipsel und überträgt die
+Bewertung an einen Webservice. Vorteil der Edge-Computing-Lösung: es können
+schmalbandigen Netzverbindungen (LoRaWAN, TTN) zur Übertragung genutzt werden.
 
 <https://cbrell.de/blog/ki-bewertung-von-klangereignissen-bei-honigbienen/>
 
@@ -399,5 +400,6 @@ Kosten für das Virtual-Reality-Headset [Oculus Go](https://www.oculus.com/go/) 
 ## Wortwolke / Tag Cloud
 
 KI /AI, Edge Computing, Soundanalyse, IoT, Makern, Computer Vision, LoraWan,
-Raspberry Pi, Tensorflow, Bilderkennung, Tensor Processing Units (TPUs), VR,
-Kleinstcomputer, Embedded maschine learning
+Einplatinencomputer, Kleinstcomputer (eingebettetes System), Raspberry Pi,
+Tensorflow, Bilderkennung, Tensor Processing Units (TPUs), VR, Kleinstcomputer,
+Embedded maschine learning
