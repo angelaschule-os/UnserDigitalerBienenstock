@@ -34,6 +34,12 @@ Sechs Carnica-Bienenvölker bestehend aus ca. 20.000 Tieren:
 Die Holz-Magazinbeuten sind ca. 1cm breiter als Deutsch-Normal-Maß (DNM) und
 doppelwandige (damit die Bienen im Winter besser geschützt sind).
 
+Ab Februar ist die Winterpause bei unseren Bienen vorbei. Am Besten lässt
+sich mit den Bienenstöcker um die Mittagszeit arbeiten, denn dann haben die
+meisten unsere Bienen ihre aktive Phase. Daher findet unsere Imker-AG
+meistens auch in der Mittagszeit ( in der 7. und 8. Stunde (13:00-14:45 Uhr))
+statt.
+
 Mehr Informationen:
 <https://www.angelaschule-os.de/category/imker-ag/>
 
