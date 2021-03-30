@@ -108,16 +108,16 @@ Weiter Infos zu den Schülerwettbewerben:
 
 ## Überblick über die geförderten Themen
 
-| Themen | Förderung  |
-| --- | :---: |
-| LoRaWAN und Sensorik | 👍 |
-| Wetter- und Umweltdaten außerhalb des Bienenstocks |  |
-| Luftqualität außerhalb des Bienenstocks |  |
-| Lärmbelastung |  |
-| Videografie |  |
-| Videografie und KI |  |
-| Soundbewertung |  |
-| VR / Einen virtuellen Bienenstock entdecken |  |
+| Themen | Förderung  | Beginn | Bienenvolk |
+| --- | :---: | :---: | :---: |
+| LoRaWAN und Sensorik | 👍 | Nach Osterferien | Honey cube |
+| Wetter- und Umweltdaten außerhalb des Bienenstocks |  |  | |
+| Luftqualität außerhalb des Bienenstocks |  | | |
+| Lärmbelastung |  | | |
+| Videografie |  | | |
+| Videografie und KI |  | | |
+| Soundbewertung |  | | |
+| VR / Einen virtuellen Bienenstock entdecken |  | | |
 
 ## Thema: LoRaWAN und Sensorik
 
