@@ -9,6 +9,7 @@ Unsere Projektskizze ist lizenziert unter [CC BY-SA 4.0](https://creativecommons
   - [Fahrplan](#fahrplan)
   - [Überblick über die geförderten Themen](#überblick-über-die-geförderten-themen)
   - [Thema: LoRaWAN und Sensorik](#thema-lorawan-und-sensorik)
+  - [Thema: Erweiterte Temperaturmessung](#thema-erweiterte-temperaturmessung)
   - [Thema: Wetter- und Umweltdaten außerhalb des Bienenstocks](#thema-wetter--und-umweltdaten-außerhalb-des-bienenstocks)
   - [Thema: Luftqualität außerhalb des Bienenstocks](#thema-luftqualität-außerhalb-des-bienenstocks)
   - [Thema: Lärmbelastung](#thema-lärmbelastung)
@@ -188,6 +189,21 @@ Materialliste:
   - <https://github.com/joergkeller/beehive-sensor>
 
 Kosten geschätzt ab 300 Euro.
+
+## Thema: Erweiterte Temperaturmessung
+
+Eine Bienenbeute hat bewegliche Waben, die einzeln entnommen werden können. Die
+Bienenbeute wird unterteilt in Brutraum und Honigraum. In den verschiedenen
+Bereiche der Bienebeute herrschen unterschiedliche Temperaturen. Ziel ist die
+ortsabhängige Temperaturmessung. Bisherige Messung beschränkten sich auf die
+räumliche punktuelle Messung im Beuteinneren.
+
+Die Visualisierung der gemessenen Daten und des berechneten Temperaturgitters
+soll mittels geeigneter Interpolationsmethoden und Heatmaps in 2D und 3D
+erfolgen.
+
+<img src="img/huegelmeyer.png" height="300">
+<img src="img/dz8Jg.jpg" height="300">
 
 ## Thema: Wetter- und Umweltdaten außerhalb des Bienenstocks
 
