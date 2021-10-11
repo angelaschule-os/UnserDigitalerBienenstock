@@ -34,10 +34,10 @@ Sechs Carnica-Bienenvölker bestehend aus ca. 20.000 Tieren:
 Die Holz-Magazinbeuten sind ca. 1cm breiter als Deutsch-Normal-Maß (DNM) und
 doppelwandige (damit die Bienen im Winter besser geschützt sind).
 
-Ab Februar ist die Winterpause bei unseren Bienen vorbei. Am Besten lässt
+Ab Februar ist die Winterpause bei unseren Bienen vorbei. Am besten lässt
 sich mit den Bienenstöcker um die Mittagszeit arbeiten, denn dann haben die
 meisten unsere Bienen ihre aktive Phase. Daher findet unsere Imker-AG
-meistens auch in der Mittagszeit ( in der 7. und 8. Stunde (13:00-14:45 Uhr))
+meistens auch in der Mittagszeit (in der 7. und 8. Stunde (13:00-14:45 Uhr))
 statt.
 
 Mehr Informationen:
@@ -50,12 +50,12 @@ Gedächtnis der Schülerinnen und Schüler bleiben.
 
 Wir haben uns überlegt, wie wir den Schülerinnen und Schüler trotz
 Distanzlernen und dem Fernbleiben der Schule die "Nähe" zu den Schulbienen
-erhalten können. Wir hoffen, das neben den anderen Vorteilen die
+erhalten können. Wir hoffen, dass neben den anderen Vorteilen die
 Digitalisierung eines Bienenstock bietet, vor allem auch das Sorgen, Kümmern
 und Interesse unsere Schülerinnen und Schüler erhalten bleibt und vielleicht
 sogar gestärkt wirkt - trotz Distanz -.
 
-Die Themen können in Kooperationen mit Akteure unser Region und Kommune oder
+Die Themen können in Kooperationen mit Akteure unserer Region und Kommune oder
 in anderen Regionen und Kommunen umgesetzt werden. Dazu gehören Unternehmen
 der gewerblichen Wirtschaft, Hochschulen, Forschungseinrichtungen, Verbänden,
 Vereinen, ­Stiftungen, kommunalen Wirtschaftsverbänden, Bildungsträgern,
@@ -66,7 +66,7 @@ Präsenz oder Distanz. Schulisch oder Außerschulisch.
 
 ## Zielgruppe
 
-Zur Zeit interessieren sich hauptsächlich Schülerinnen und Schüler aus den
+Zurzeit interessieren sich hauptsächlich Schülerinnen und Schüler aus den
 **Jahrgängen 5 bis 8** für die Imker AG.
 
 Wir hoffen das wir mit dem Projekt auch Schülerinnen und Schüler der Jahrgänge
@@ -78,10 +78,10 @@ Wir denken, dass die digitalen Themen für alle Jahrgänge interessant sein
 könnten.
 
 Darüber hinaus streben wir die Teilnahme an den Schüler- und
-Jugendwettbewerben, `Schüler experimentieren` für die 4. Klasse bis 14 Jahre)
+Jugendwettbewerben, `Schüler experimentieren` für die 4. Klasse bis 14 Jahre
 und `Jugend forscht` ab 15. Jahre (9. Klasse), an.
 
-Weiter Infos zu den Schülerwettbewerben:
+Weitere Infos zu den Schülerwettbewerben:
 
 - <https://www.jugend-forscht.de/teilnahme/alterssparten/schueler-experimentieren.html>
 - <https://www.jugend-forscht.de/teilnahme/alterssparten/jugend-forscht.html>
@@ -139,7 +139,7 @@ Anleitung: <https://hiverize.org/eine-stockwaage-bauen/>.
 
 Zusätzlich wird die **Temperatur** im Beuteinneren gemessen (Die Behausung
 allein wird Beute genannt). Die Überwachung der Temperatur des Bienenstocks
-wird erfolgt durch eine selbstgebauten Lösung auf Basis von
+wird erfolgt durch eine selbstgebaute Lösung auf Basis von
 <https://hiverize.org/einbautemperatursensor/> und der Abschlussarbeit von
 Leon Weber.
 
@@ -159,22 +159,22 @@ Netz GmbH.
 
 *Exkurs LoRaWAN*: LoRaWAN – das WiFi für das Internet der Dinge. Mit
 Reichweiten von mehreren km, keinen laufenden Übertragungskosten und einem
-extrem niedrigen Energieverbrauch ist dieses Funknetzwerk bestens für das
+extrem niedrigen Energieverbrauch, ist dieses Funknetzwerk bestens für das
 Internet der Dinge (IoT) geeignet.
 
-Zur internen Visualisierung der Meßwerte und Alarmierung bei der
+Zur internen Visualisierung der Messwerte und Alarmierung bei der
 Überschreitung von Grenzwerten werden wir ein
 [Grafana](https://grafana.com/grafana/) Dashbord einsetzen.
 
 Das Grafana Dashboard bietet zusätzlich die Möglichkeit Wetterdaten und
-Wetterprognosen des Deutsche Wetterdienst (DWD) anzuzeigen. Hinweis von
-[Prof. Dr. Michael Uelschen](https://www.hs-osnabrueck.de/prof-dr-ing-michael-uelschen/) Es ist
-zu prüfen inweit die phänologische Daten des DWD sich in das Dashboard
+Wetterprognosen des Deutschen Wetterdienst (DWD) anzuzeigen. Hinweis von
+[Prof. Dr. Michael Uelschen](https://www.hs-osnabrueck.de/prof-dr-ing-michael-uelschen/). Es ist
+zu prüfen, inwieweit die phänologischen Daten des DWD sich in das Dashboard
 integrieren lassen. Phänologische Daten bieten eine Antwort auf die Frage
 "Was blüht jetzt". Dabei ist zu beachten das nicht alle Pflanzen für Bienen
 interessant sind. Weiterführende Information zum [Phänologischen Kalender](https://www.nabu.de/tiere-und-pflanzen/pflanzen/pflanzenwissen/jahreszeiten.html).
 
-Das öffentliche Bereitstellen der Meßergebnisse erfolgt über openSenseMap:
+Das öffentliche Bereitstellen der Messergebnisse erfolgt über openSenseMap:
 <https://opensensemap.org/explore/601ebb99e443a0001ba8be02>.
 
 <img src="img/openSenseMap_bienen.png" height="500">
@@ -201,14 +201,14 @@ Die openSenseMap ist eine für jeden frei nutzbare Karte mit Umweltdaten.
 
 Allerdings ist die Wetterstation aus 2006 auf dem Dach des Klassentraktes der
 Angelaschule etwas in die Jahre gekommen und muss gewartet und die Sensorik
-zur Windgeschwindigkeit und Niederschlag in Stand gesetzt bzw. ausgetauscht
+zur Windgeschwindigkeit und Niederschlag instand gesetzt bzw. ausgetauscht
 werden.
 
 Um den genauen Zustand zu ermitteln wurde im Januar 2021 im Rahmen des [IMAGEFILM 2021](https://www.youtube.com/watch?v=CtGE5YUU54s)
 eine Drohnenbefliegung durchgeführt. Eine Analyse der Befliegung steht noch aus.
 
-Die Meteorologische Messgeräte stammen von der [Fa. Thies.](https://www.thiesclima.com/de/),
-welche Meteorologie- und Umweltmesstechnik anbietet die den Anforderung der
+Die meteorologische Messgeräte stammen von der [Fa. Thies.](https://www.thiesclima.com/de/),
+welche Meteorologie- und Umweltmesstechnik anbietet, welchen den Anforderungen der
 nationalen und internationalen Wetterdienste entsprechen. Siehe auch hierzu:
 [Leitfäden für die Ausbildung im Deutschen Wetterdienst (DWD), Band 6](https://www.dwd.de/DE/leistungen/pbfb_verlag_leitfaeden/pdf_einzelbaende/leitfaden6_pdf.pdf?__blob=publicationFile&v=3).
 
@@ -227,8 +227,8 @@ Geplanter Ersatz für:
 Feinstaub belastet nicht nur die Gesundheit des Menschen, sondern die
 Luftverschmutzung macht auch unseren Bienen zu schaffen.
 
-Daher macht es Sinn Daten zur Luftqualität (NO2, PM2.5, PM10, Aerosol) und
-Lärmbelastung nicht nur zum Schutz der Schülerinnen und Schüler zur Erfassen,
+Daher ist es sinnvoll Daten zur Luftqualität (NO2, PM2.5, PM10, Aerosol) und
+Lärmbelastung nicht nur zum Schutz der Schülerinnen und Schüler zu Erfassen,
 sondern auch für unsere Schulbienen. Mehr Infos:
 <https://www.spektrum.de/news/luftverschmutzung-macht-bienen-zu-schaffen/1758924>
 
@@ -245,7 +245,7 @@ Kosten ohne Lärmbelastung ab 250 Euro.
 
 ## Thema: Lärmbelastung
 
-Hat Umgebungslärm (besonders in den Pausen) einen Einfluß auf die Bienen,
+Hat Umgebungslärm (besonders in den Pausen) einen Einfluss auf die Bienen,
 oder lässt dieser unsere Schulbienen unbeirrt?
 
 <https://luftdaten.info/einfuehrung-zum-laermsensor/>
@@ -264,7 +264,7 @@ und Schüler jeder Zeit nach unseren Bienen "schauen" können.
 
 Zusätzlich könnte ein **Infrarot-Video** aus dem Brutbereich der Bienen
 gestreamt werden. Die Infrarot-Beleuchtung kann von den Bienen nicht
-wahrgenommen werden, Infrarotlicht mit einer Wellenlänge größer 780nm ist für
+wahrgenommen werden, Infrarotlicht mit einer Wellenlänge größer 780 nm ist für
 sie unsichtbar.
 
 <img src="img/queen-egg-laying.jpg" height="300">
@@ -277,33 +277,32 @@ Software:
 
 Materialliste:
 
-- Raspberry Pi 4 2GB (ab 50 Euro)
+- Raspberry Pi 4 2 GB (ab 50 Euro)
 - Gehäuse und Lüfter(Argon One) (ab 40 Euro)
 - Netzteil (ab 8 Euro)
-- Powerbank mind. 5V (besser 5,1V) und mind. 10.000 mAh  (ab 15 Euro)
+- Powerbank mind. 5V (besser 5,1V) und mind. 10.000 mAh (ab 15 Euro)
 - USB-Kamera / Raspberry Pi Kamera V2 (ab 30 Euro)
   - Alternativ: RASP CAM HQ Raspberry Pi - Kamera, 12MP, Sony IMX477R (ab 60
-  Euro) mit RPIZ CAM 16MM TO Raspberry Pi - 16mm Kameralinse, Teleobjektiv
+  Euro) mit RPIZ CAM 16MM TO Raspberry Pi - 16 mm Kameralinse, Teleobjektiv
   (ab 60 Euro)
 - Infrarot-Scheinwerfer/Strahler
 - Oder Kamera mit Infrarot-Strahler
-- Outdoor IP65-Gehäuse  (ab 40 Euro)
+- Outdoor IP65-Gehäuse (ab 40 Euro)
   - <http://www.dg1dan.de/qo100/hardware/gehaeuse/gehaeuse.htm>
 
 Kosten ab 190 Euro (einfache Kamera) oder 260 Euro (fortgeschrittene Kamera).
 
 ## Thema: Videografie und KI
 
-Am Beispiel von [Prof. Dr. rer. nat. Claus Brell ](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
-
+Am Beispiel von [Prof. Dr. rer. nat. Claus Brell](https://cbrell.de/blog/) ([Hochschule Niederrhein, Fachbereich Wirtschaftswissenschaften](https://www.hs-niederrhein.de/wirtschaftswissenschaften/personen/brell/))
 
 Einführung in das Thema maschinelles Sehen und Erkennen.
 
 Mit einem Einplatinen- oder einem Kleinstcomputer und einer Kamera werden
-Videobilder aufgenommen. Die KI auf auf dem Einplatinencomputer oder dem
+Videobilder aufgenommen. Die KI auf dem Einplatinencomputer oder dem
 Kleinstcomputer **erkennt** und **klassifiziert** die Bilder und überträgt die
 Bewertung an einen Webservice. Vorteil der **Edge-Computing**-Lösung: Es können
-*schmalbandigen Netzverbindungen** (wie *LoRaWAN, TTN) zur Übertragung genutzt
+*schmalbandigen Netzverbindungen** (wie LoRaWAN, TTN) zur Übertragung genutzt
 werden. Die KI-Kamera liefert eine wertvolle Datenbasis.
 
 Quellen:
@@ -314,7 +313,7 @@ Quellen:
 - <https://twitter.com/clausbrell/status/1183328586473857024>
 - <https://twitter.com/clausbrell/status/1160247881074401281>
 
-Die Kamera und "Künstliche Intelligenz"  hilft beim ...
+Die Kamera und "Künstliche Intelligenz" hilft beim ...
 
 1) Bienen erkennen.
 <img src="img/EGwHEw1W4AAhePr.jpeg" height="300">
@@ -323,7 +322,7 @@ Die Kamera und "Künstliche Intelligenz"  hilft beim ...
 Pollenhöschen.
 
 Vor dem Flugloch ist ein Einplatinen- oder Kleinstcomputer mit Kamera montiert.
-Auf dem Einplatinen- oder Kleinstcomputerläuft eine KI, die die Beinen mit und
+Auf dem Einplatinen- oder Kleinstcomputerläuft eine KI, welche die Bienen mit und
 ohne Pollenhöschen zählt. Für eine Bildanalyse werden laut Brell 29 Sekunden
 benötigt.
 
@@ -354,7 +353,7 @@ Link zur Forschungsidee von Claus Brell:
 
 <img src="img/200306-Frequenzanalyse-Bienen-Hochschuldach.png" height="300">
 
-Kontinuierliche Soundanalysen können dabei helfen, heraus zu finden ob unsere
+Kontinuierliche Soundanalysen können dabei helfen, herauszufinden, ob unsere
 Bienen zufrieden sind. Denn Bienen produzieren Summ-Geräusche mit einem
 Schwerpunkt bei einer Frequenz von 200 Hz. Sind die Bienen unzufrieden, könnte
 dies an der geänderten Frequenz so um die 300 Hz erkannt werden.
@@ -394,7 +393,7 @@ Kosten ab 60 Euro.
 Die virtuelle Realität, kurz VR, ermöglicht es unseren Schülerinnen und Schüler
 das Innere des Bienenstocks zu entdecken oder auf virtuelle Erkundungstour auf
 einer Wildblumenwiese zu gehen. Dabei können sie die VR-Technik kennenlernen,
-entweder mit Hilfe von Tablets oder Smartphones, mit selbstgebaute VR-Brillen
+entweder mithilfe von Tablets oder Smartphones, mit selbstgebauten VR-Brillen
 aus Pappe oder Kunststoff oder spezielle VR-Brillen.
 
 Weitere Infos und Unterrichtsmaterialien:
